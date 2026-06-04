@@ -1,0 +1,7 @@
+Namespace(AF2test=False, device='0', esmembed=True, model='HEAL-2/HEAL-main/model/model_mfA1.pt', pooling='MTP', task='mf')
+cuda:0
+加载数据中。。。。。。。。
+加载模型中。。。。。。。。。。
+开始预测。。。。。。
+### Number of functions =483
+[2026-04-21 13:46:20.297451] Test ||| loss: 0.056 ||| aupr: 0.683 ||| Fmax: 0.736||| Smin: 0.356

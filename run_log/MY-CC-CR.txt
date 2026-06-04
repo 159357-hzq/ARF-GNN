@@ -1,0 +1,8 @@
+Namespace(AF2test=False, device='0', dropout=0.2, esmembed=True, max_hop=4, model='HEAL-2/HEAL-main/model/model_ccadpr1C.pt', pooling='MTP', task='cc')
+cuda:0
+加载数据中。。。。。。。。
+加载模型中。。。。。。。。。。
+开始预测。。。。。。
+### Number of functions =317
+[2026-04-25 14:51:41.004165] Test ||| loss: 0.13 ||| aupr: 0.453 ||| Fmax: 0.68 ||| Smin: 0.467
+测试集 chosen_k 分布: {0: 1056, 1: 1479, 2: 554, 3: 166, 4: 159}
